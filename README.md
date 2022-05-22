@@ -90,3 +90,7 @@ Ruter wifi:
 -Sagremcom (Livebox 2 Sp)
 Y en la sesion del miercoles entaremos de lleno en los microtik y haremos un pratica sobre esto.
 Y tambien hay fotos puestas
+## ***Clase 11/05/22***
+La sesion de esta clase ha tratado ya visto los videos hemos cogido cada uno un mikrotic que en mi caso es el 9 y hacer una pratica basica del Mikrotic. Y si se puede hacer
+tambien hacer virtual. Para eso hay que  tener actulizar la maquina. 
+Seguiremos el  lunes que viene

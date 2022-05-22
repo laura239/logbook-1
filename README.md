@@ -56,3 +56,15 @@ https://youtu.be/o1KXOn8mulE
 Palindru
 Conocer 0,1 y 5
 Linux MD RAID 10
+## ***Clase 11/04/22***
+Hemos seguido con el proyecto de intelegencia artifial.
+## ***Clase 25/04/22***
+Hemos hechos las clases de gip gup y ha puesto una tarea de controlar los apuntes que hacemos diaremante en clase.    
+## ***Clase 27/04/2022***
+Hemos seguido con el proyecto de inteligencia artificial.
+## ***Clase 2/05/22***
+Hemos seguido Georgy y yo con aplicacion de teacheable machine la de tapaones para poder solucinar el problema que cuando no hay nada lo dectata.
+## ***Clase 04/05/22***
+Hemos ya acabado con el techeable machine y he subido los proyectos que hemos hecho aunque falta expiriencia
+Hemos hechos varias cosas en clase hemos hecho lo principal de lso switches, los microtik, los ruters de casa... Aqui voy hacer una lista sobre los que hemos visto en clase y hay que hacer un 
+recuento de lo hemos visto:

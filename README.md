@@ -68,3 +68,25 @@ Hemos seguido Georgy y yo con aplicacion de teacheable machine la de tapaones pa
 Hemos ya acabado con el techeable machine y he subido los proyectos que hemos hecho aunque falta expiriencia
 Hemos hechos varias cosas en clase hemos hecho lo principal de lso switches, los microtik, los ruters de casa... Aqui voy hacer una lista sobre los que hemos visto en clase y hay que hacer un 
 recuento de lo hemos visto:
+## ***Clase 9 de mayo de 2022***
+Microtik:
+RB951Ui - 2Hnd
+Switch:
+-Tp-link (5 puertos 10/100 Mbps): TL-SF1005D
+-Cisco system (Catalyst 2950 series)
+-Dlink (Switch 24 Puertos 10/100Mbps): DES-1024R+
+-Super stack (24 PRT 10B-T): PS Hub 40
+-Allied Telesyn ( Fast Ethernet (10/100)): AT-FS716
+-D-Link (Switch 24 Puertos 10/100Mbps): DES-1024D
+-SMIC networks: SMC6726AL2
+-Switch tiger
+Ruter  modular:
+-Cisco sytems (Ruter modular): Cisco 1800 series
+Ruter ADSL:
+-Nokia M112
+Ruter wifi:
+-ONO: CDE-30364
+-Netgear: CG3100D
+-Sagremcom (Livebox 2 Sp)
+Y en la sesion del miercoles entaremos de lleno en los microtik y haremos un pratica sobre esto.
+Y tambien hay fotos puestas

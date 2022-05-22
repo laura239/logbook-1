@@ -31,3 +31,28 @@ Hemos continuaso con proyecto de inteligencia artficial y nosotros nos hemos ded
 donde hemos hecho las mismas fotos en tres fondos el banco, con azul y con la mesa de madera.
 Son fondoa neutros.
 He despues la hemos subido al drive. Para que todo el mundo disponga de las fotos. Y tambien otros alumnos han estado haciendo pusturas de yoga.
+## ***Clase 23/03/22***
+Hemos seguido haciendo fotos.
+## ***Clase 28/03/22***
+Hemoa prendido hacer editar fotos de las posturas de Georgy. En irfan view
+## ***Clase 30/03/2022***
+He estado editando las fotos de posturas de yoga en irfanview
+## ***Clase 04/04/22***
+https://es.wikipedia.org/wiki/Dispositivo_de_almacenamiento_de_datos
+Soporte de almacnamiento:
+-Almacenamiento de la nube:
+https://es.wikipedia.org/wiki/Almacenamiento_en_nube
+-DAS:
+https://es.wikipedia.org/wiki/Almacenamiento_de_conexi%C3%B3n_directa
+-NAS
+https://es.wikipedia.org/wiki/Almacenamiento_conectado_en_red
+-SAN
+https://es.wikipedia.org/wiki/Red_de_%C3%A1rea_de_almacenamiento
+Integridad de datos:
+https://es.wikipedia.org/wiki/Red_de_%C3%A1rea_de_almacenamiento
+MTBF
+Mi GRAN problema de ALMACENAMIENTO (Y cómo lo he RESUELTO)...: Nata gentile
+https://youtu.be/o1KXOn8mulE
+Palindru
+Conocer 0,1 y 5
+Linux MD RAID 10

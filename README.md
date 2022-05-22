@@ -94,3 +94,6 @@ Y tambien hay fotos puestas
 La sesion de esta clase ha tratado ya visto los videos hemos cogido cada uno un mikrotic que en mi caso es el 9 y hacer una pratica basica del Mikrotic. Y si se puede hacer
 tambien hacer virtual. Para eso hay que  tener actulizar la maquina. 
 Seguiremos el  lunes que viene
+## ***Clase 16/05/22:***
+Hemos segudo con la practica de configuracion mikrotic que sirve para tener acceso ha interner y tambien hemos explicado las parates del mikrotic que tenemos en clase. 
+Y en la clase sigueremos con la pratica del mikrotic.

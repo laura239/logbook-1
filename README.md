@@ -97,3 +97,8 @@ Seguiremos el  lunes que viene
 ## ***Clase 16/05/22:***
 Hemos segudo con la practica de configuracion mikrotic que sirve para tener acceso ha interner y tambien hemos explicado las parates del mikrotic que tenemos en clase. 
 Y en la clase sigueremos con la pratica del mikrotic.
+## ***Clase o sesion 18/05/22***
+La sesion esta ha tratado de la practica basica del mikrotic que hay que entregar para este tercer trimestre y yo he podedido avanzar con el el punto 1,2. Y el lunes 23 de mayo voy acabar la practica y yo ya 
+la tengo casi hecha en virtualbox y es facil.
+Y como ya hemos casi hemos acabado y me quede haciendo ping 192.168.88.1 que no funciona pero al final ha funcionado.
+Seguiremos el proximo martes.

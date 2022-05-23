@@ -102,3 +102,4 @@ La sesion esta ha tratado de la practica basica del mikrotic que hay que entrega
 la tengo casi hecha en virtualbox y es facil.
 Y como ya hemos casi hemos acabado y me quede haciendo ping 192.168.88.1 que no funciona pero al final ha funcionado.
 Seguiremos el proximo martes.
+# ***Segundo trimestre***

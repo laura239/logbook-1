@@ -33,6 +33,21 @@ Son fondoa neutros.
 He despues la hemos subido al drive. Para que todo el mundo disponga de las fotos. Y tambien otros alumnos han estado haciendo pusturas de yoga.
 ## ***Clase 23/03/22***
 Hemos seguido haciendo fotos.
+## ***Clase 10/01/22***
+Hemos comenzado depues de la vacaciones y hemos clonado un archo lliurex21 con el clonezilla. Y hemos seguido explicando el digital.
+## ***Clase 12/01/22***
+Hemos seguido con la simulacione y yo he hablado del arduino que estudie en mi antiguo colegio.
+## ***Clase 17/01/22***
+He traido unos circuito de arduino que es un semaforo y enseñado a los compañeros los circuitos que hecho.
+## ***Clase 19/01/22***
+Hemos seguido con el proyecto de concepto de digital y hemos explicado el digital. Y ahora hemos puesto algunos cuestionarios.
+## ***Clase 24/01/22***
+Hemos segudido con el semaforo y nos ha explicado como hacer el examen. Y vamos los vamos ha subir las versiones de los semaforos que hemos hecho en clase.
+## ***Clase 26/01/22***
+Hemos segudido con el semaforo y nos ha explicado como hacerlo. Y vamos los vamos ha subir las versiones de los semaforos que hemos hecho en clase. Y hemos hecho otra versionv y la ha subido en el encargo de simulacion logica.
+## ***Clase 31/01/22***
+Hemos segudido con el semaforo y nos ha explicado como hacer el examen. Y vamos los vamos ha subir las versiones de los semaforos que hemos hecho en clase. Y nos ha explicado unos apuntes
+que nos vienen bien y lo microchips de los componentes. 
 ## ***Clase 28/03/22***
 Hemoa prendido hacer editar fotos de las posturas de Georgy. En irfan view
 ## ***Clase 30/03/2022***

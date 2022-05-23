@@ -1,0 +1,13 @@
+Clase 16/03/2022
+Inteligencia artificial:
+Pagina epci (intef) 
+STEM
+Pelearemos un sistema clasificado. Nos nos agarramos lo de inteligencia artificial que es para cumplir objectivos de ciclo.
+https://intef.es/tecnologia-educativa/pensamiento-computacional/
+https://teachablemachine.withgoogle.com/
+Sesgo
+Unas 25 y 30 poses. Para cada unas poses necistamos muchas poses. Unas 30 fotos por poses. Tendremos que anotar los resultados.
+Que pose identifica
+Con que confianza 
+Nos da categoria y confianza.
+La confianza de superar 70%

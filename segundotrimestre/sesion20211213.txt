@@ -1,0 +1,4 @@
+Clase 13/12/21:
+Hemos comenzado la segunda evalucion y lo que vamos hacer es la simulacion logica y haremos un semaforo. Y hemos empezado explicar conceptos que vamos utilizar en todo esta 
+seguna evalucion. 
+Y vamos seguir explicando las simulaciones logicas y vasmos hacer un semaforo.

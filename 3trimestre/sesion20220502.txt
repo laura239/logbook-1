@@ -1,0 +1,2 @@
+Clase 2/05/22
+Hemos seguido Georgy y yo con aplicacion de teacheable machine la de tapaones para poder solucinar el problema que cuando no hay nada lo dectata.

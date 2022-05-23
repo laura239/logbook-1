@@ -127,3 +127,20 @@ Hemos seguido explicando conceptos que vamos ha dar y vamos ha dar conceptos. Y 
 ## ***Clase 20/12/21***
 Hemos seguido haciendo el proyecto de simulacion logica y explicnado unos temas de conceptos de simulacion logica.
 Y nos hemos ido ya de vacaciones de navidad.
+## ***Clase 02/02/22***
+Hemos segudido con el semaforo y nos ha explicado como hacer el examen. Y vamos los vamos ha subir las versiones de los semaforos que hemos hecho en clase. Y nos ha explicado unos apuntes
+que nos vienen bien y lo microchips de los componentes. Y el display que vamos usar y contador.
+## ***Clase 07/02/2022***
+Hemos segudido con el semaforo y nos ha explicado como hacer el examen. Y vamos los vamos ha subir las versiones de los semaforos que hemos hecho en clase. Y nos ha explicado unos apuntes que nos vienen bien y lo microchips de los componentes. Y las puertas raid y las tablas de verdad.
+## ***Clase 09/02/22***
+Hemos segudido con el semaforo y nos ha explicado como hacer el examen. Y vamos los vamos ha subir las versiones de los semaforos que hemos hecho en clase. Y nos ha explicado unos apuntes que nos vienen bien y lo microchips de los componentes.  Y ha subindo nuevas versiones del semaforo.
+## ***Clase 14/02/22***
+Hemos seguido explicado el semaforo y haciendolo y me lo descargado en mi maquina EE3.
+## ***Clase 16/02/22***
+Hemos segudido con el semaforo y nos ha explicado como hacer el examen. Y vamos los vamos ha subir las versiones de los semaforos que hemos hecho en clase. Y nos ha explicado unos apuntes que nos vienen bien y lo microchips de los componentes. Y hemos añadidio otro version del semaforo, nos han abierto otro custionario del almacenamiento.
+## ***Clase 21/02/22***
+Hemos segudido con el semaforo y nos ha explicado como hacer el examen. Y vamos los vamos ha subir las versiones de los semaforos que hemos hecho en clase. Y nos ha explicado unos apuntes que nos vienen bien y lo microchips de los componentes. 
+## ***Clase 23/02/22*** 
+Hemos segudido con el semaforo y nos ha explicado como hacer el examen. Y vamos los vamos ha subir las versiones de los semaforos que hemos hecho en clase. Y nos ha explicado unos apuntes que nos vienen bien y lo microchips de los componentes. Y hemos añadidio otro version del semaforo, nos han abierto otro custionario del almacenamiento.
+## ***Clase 28/02/22***
+Hemos hecho el examen de la segunda evalucion.

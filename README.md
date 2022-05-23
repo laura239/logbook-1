@@ -144,3 +144,4 @@ Hemos segudido con el semaforo y nos ha explicado como hacer el examen. Y vamos 
 Hemos segudido con el semaforo y nos ha explicado como hacer el examen. Y vamos los vamos ha subir las versiones de los semaforos que hemos hecho en clase. Y nos ha explicado unos apuntes que nos vienen bien y lo microchips de los componentes. Y hemos añadidio otro version del semaforo, nos han abierto otro custionario del almacenamiento.
 ## ***Clase 28/02/22***
 Hemos hecho el examen de la segunda evalucion.
+# ***Primer trimestre***

@@ -145,3 +145,11 @@ Hemos segudido con el semaforo y nos ha explicado como hacer el examen. Y vamos 
 ## ***Clase 28/02/22***
 Hemos hecho el examen de la segunda evalucion.
 # ***Primer trimestre***
+## ***Clase 20/09/21***
+Hemos empezado este ciclo y lo primero que hemos hecho es elegir nuestra maquina ver el sistema que tenia. Ademas hemos empezado ha ver el video de cultube 3.0.
+## ***Clase 22/09/22***
+Hemos cogido nuestra maquina la mia es ee3 ver el sistema que lleva y intalar un kubuntu 21.10.
+## ***Clase 27/09/22***
+He hecho la instalacion del kubuntu 21.10 y hemos hecho un clonezilla al kubunto 21.10.
+## ***Clase 29/09/21***
+Hemos ya emepezado hacer cosas para saber haber como va ir curso y ha familiziar con la maquina.

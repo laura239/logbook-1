@@ -103,3 +103,12 @@ la tengo casi hecha en virtualbox y es facil.
 Y como ya hemos casi hemos acabado y me quede haciendo ping 192.168.88.1 que no funciona pero al final ha funcionado.
 Seguiremos el proximo martes.
 # ***Segundo trimestre***
+## ***Clase 13/12/21:***
+Hemos comenzado la segunda evalucion y lo que vamos hacer es la simulacion logica y haremos un semaforo. Y hemos empezado explicar conceptos que vamos utilizar en todo esta  seguna evalucion. 
+Y vamos seguir explicando las simulaciones logicas y vasmos hacer un semaforo.
+## ***Clase 15/12/21***
+Hemos seguido explicando conceptos que vamos ha dar y vamos ha dar conceptos. Y tambien se han abardado algunos cuestionarios:
+-Y yo he restableciod mi sistema que se habia parado y despues lo clonamos.
+## ***Clase 20/12/21***
+Hemos seguido haciendo el proyecto de simulacion logica y explicnado unos temas de conceptos de simulacion logica.
+Y nos hemos ido ya de vacaciones de navidad.

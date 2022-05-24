@@ -1,4 +1,4 @@
-Clase 9 de mayo de 2022:
+Clase 9 de mayo de 2022
 Hemos hechos varias cosas en clase hemos hecho lo principal de lso switches, los microtik, los ruters de casa... Aqui voy hacer una lista sobre los que hemos visto en clase y hay que hacer un 
 recuento de lo hemos visto:
 

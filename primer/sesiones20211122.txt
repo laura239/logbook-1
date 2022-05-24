@@ -1,0 +1,4 @@
+Clase 22/11/21
+He hecho una partacion de disco de mi disco de la maquina EE3  y hecho tambien instalado el virtualbox. Y hemos dado tambien unos conceptos y se trata de ir familizar con conceptos de  nuestra 
+rama. Y hecho la clonacion del kubuntu 20.10 y esta guardad la voy ha guardar para que me sirva para todo el curso. Y ahora hay que documentarla en libre writter. Vamos ya haciendo cuetionrios
+de primer trimestre.

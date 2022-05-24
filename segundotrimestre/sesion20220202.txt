@@ -1,3 +1,3 @@
-Clase 02/02/22:
+Clase 02/02/22
 Hemos segudido con el semaforo y nos ha explicado como hacer el examen. Y vamos los vamos ha subir las versiones de los semaforos que hemos hecho en clase. Y nos ha explicado unos apuntes
 que nos vienen bien y lo microchips de los componentes. Y el display que vamos usar y contador.

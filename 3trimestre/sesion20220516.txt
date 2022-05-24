@@ -1,3 +1,3 @@
-Clase 17/05/22
+Clase 17/05/22:
 Hemos segudo con la practica de configuracion mikrotic que sirve para tener acceso ha interner y tambien hemos explicado las parates del mikrotic que tenemos en clase. 
 Y en la clase sigueremos con la pratica del mikrotic.

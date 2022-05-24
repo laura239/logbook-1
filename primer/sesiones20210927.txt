@@ -1,2 +1,2 @@
-Clase 27/09/22
+Clase 27/09/22:
 He hecho la instalacion del kubuntu 21.10 y hemos hecho un clonezilla al kubunto 21.10.

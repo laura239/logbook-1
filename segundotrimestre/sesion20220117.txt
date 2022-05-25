@@ -1,2 +1,2 @@
-Clase 17/01/22
+Clase 17/01/22:
 He traido unos circuito de arduino que es un semaforo y enseñado a los compañeros los circuitos que hecho.

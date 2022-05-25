@@ -153,3 +153,29 @@ Hemos cogido nuestra maquina la mia es ee3 ver el sistema que lleva y intalar un
 He hecho la instalacion del kubuntu 21.10 y hemos hecho un clonezilla al kubunto 21.10.
 ## ***Clase 29/09/21***
 Hemos ya emepezado hacer cosas para saber haber como va ir curso y ha familiziar con la maquina.
+## ***Clase 06/10/21***
+Hemos instalado virtualbox
+## ***Clase 13/10/21:***
+He hecho una partacion de disco de mi disco de la maquina EE3  y hecho tambien instalado el virtualbox. Y hemos dado tambien unos conceptos y se trata de ir familizar con conceptos de  nuestra rama.
+## ***Clase 18/10/21:***
+He hecho una partacion de disco de mi disco de la maquina EE3  y hecho tambien instalado el virtualbox. Y hemos dado tambien unos conceptos y se trata de ir familizar con conceptos de  nuestra  rama. Y ademas hemos ya dado un tema nuevo y como se autuliza un sistema de kubuntu despues intalarlo.
+## ***Clase 20/10/21:***
+He hecho una partacion de disco de mi disco de la maquina EE3  y hecho tambien instalado el virtualbox. Y hemos dado tambien unos conceptos y se trata de ir familizar con conceptos de  nuestra  rama. Y tambien ya hecho los pasos que hay que hacer despues de intalar el kubuntu 21.10.
+## ***Clase 25/10/21:***
+He hecho una partacion de disco de mi disco de la maquina EE3  y hecho tambien instalado el virtualbox. Y hemos dado tambien unos conceptos y se trata de ir familizar con conceptos de  nuestra  rama. Y hecho tmabien un tema que trata sobre los comandos de linux.
+## ***Clase 27/10/21:***
+He hecho una partacion de disco de mi disco de la maquina EE3  y hecho tambien instalado el virtualbox. Y hemos dado tambien unos conceptos y se trata de ir familizar con conceptos de  nuestra  rama. Y ya entregado la partacion disco.
+## ***Clase 03/11/21:***
+Hemos comenzado mes y hemos tocado reparar fuente de alimentacion, hemos instalado un sistema  kubuntu 20.10 y hemos aprendido conceptos. Temas nuevos que nos estraran el examen.
+## ***Clase 08/11/21:***
+He hecho una partacion de disco de mi disco de la maquina EE3  y hecho tambien instalado el virtualbox. Y hemos dado tambien unos conceptos y se trata de ir familizar con conceptos de  nuestra rama. Y hecho la clonacion del kubuntu 20.10.
+## ***Clase 15/11/21:***
+He hecho una partacion de disco de mi disco de la maquina EE3  y hecho tambien instalado el virtualbox. Y hemos dado tambien unos conceptos y se trata de ir familizar con conceptos de  nuestra rama. Y hecho la clonacion del kubuntu 20.10 y esta guardad la voy ha guardar para que me sirva para todo el curso. Y ahora hay que documentarla en libre writter.
+## ***Clase 17/11/21:***
+He hecho una partacion de disco de mi disco de la maquina EE3  y hecho tambien instalado el virtualbox. Y hemos dado tambien unos conceptos y se trata de ir familizar con conceptos de  nuestra  rama. Y hecho la clonacion del kubuntu 20.10 y esta guardad la voy ha guardar para que me sirva para todo el curso. Y ahora hay que documentarla en libre writter.
+## ***Clase 22/11/21:***
+He hecho una partacion de disco de mi disco de la maquina EE3  y hecho tambien instalado el virtualbox. Y hemos dado tambien unos conceptos y se trata de ir familizar con conceptos de  nuestra rama. Y hecho la clonacion del kubuntu 20.10 y esta guardad la voy ha guardar para que me sirva para todo el curso. Y ahora hay que documentarla en libre writter. Vamos ya haciendo cuetionrios de primer trimestre.
+## ***Clase 24/11/21:***
+He hecho una partacion de disco de mi disco de la maquina EE3  y hecho tambien instalado el virtualbox. Y hemos dado tambien unos conceptos y se trata de ir familizar con conceptos de  nuestra rama. Y hecho la clonacion del kubuntu 20.10 y esta guardad la voy ha guardar para que me sirva para todo el curso. Y ahora hay que documentarla en libre writter. Y ya estoy haciendo cuestionarios de primer trimestre.
+## ***Clase 29/11/21:***
+Preparando el examen del primer trimestre

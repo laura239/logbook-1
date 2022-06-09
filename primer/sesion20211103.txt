@@ -1,2 +1,2 @@
-Clase 03/11/21:
+Clase 03/11/21
 Hemos comenzado mes y hemos tocado reparar fuente de alimentacion, hemos instalado un sistema  kubuntu 20.10 y hemos aprendido conceptos. Temas nuevos que nos estraran el examen.

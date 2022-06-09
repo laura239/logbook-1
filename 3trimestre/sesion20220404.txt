@@ -1,4 +1,4 @@
-Clase 04/04/22:
+Clase 04/04/22
 https://es.wikipedia.org/wiki/Dispositivo_de_almacenamiento_de_datos
 Soporte de almacnamiento:
 -Almacenamiento de la nube:

@@ -1,1 +1,1 @@
-Hemos instalado virtualbox
+Hemos instalado virtualbox.

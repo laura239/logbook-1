@@ -1,3 +1,3 @@
-Clase 18/10/21:
+Clase 18/10/21
 He hecho una partacion de disco de mi disco de la maquina EE3  y hecho tambien instalado el virtualbox. Y hemos dado tambien unos conceptos y se trata de ir familizar con conceptos de  nuestra 
 rama. Y ademas hemos ya dado un tema nuevo y como se autuliza un sistema de kubuntu despues intalarlo.
